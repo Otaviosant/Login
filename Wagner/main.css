@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: linear-gradient(to left, black, grey);
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5em;
+    margin-top: 40px;
+    flex-direction: column;
+}
+.titulo{
+    text-align: center;
+}
+.quadradinho{
+text-align: center;
+
+}
+.litle{
+text-align: center;
+margin-top: 0px;
+}
+.opc{
+    margin-left: 50px;
+    margin-top: 80px;
+    border: solid 1px black;
+    width: 670px;
+    height: 60px;
+    background-color: white;
+
+}
+.data{
+    margin-left: 50px;
+    margin-top: 50px;
+    border: solid 1px black;
+    width: 670px;
+    height: 60px;
+    background-color: white;
+
+}
+.hora{
+ margin-left: 50px;
+ margin-top: 20px;
+ border: solid 1px black;
+ width: 670px;
+ height: 60px;
+ background-color: white;
+
+}
+.turno{
+margin-left: 50px;
+margin-top: 20px;
+border: solid 1px black;
+width: 670px;
+height: 60px;
+background-color: white;
+
+}
+.linha{
+    background-color: white;
+
+    border: solid 1px black;
+    width: 670px;
+    height: 60px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.seman{
+margin-left: 50px;
+margin-top: 20px;
+border: solid 1px black;
+width: 670px;
+height: 60px;
+background-color: white;
+
+
+}
+.fim{
+margin-top: 70px;
+text-align: center;
+
+}
